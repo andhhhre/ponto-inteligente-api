@@ -23,7 +23,6 @@ import javax.persistence.PreUpdate;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
-import br.com.andrecosta.pontointeligente.api.Lancamento;
 import br.com.andrecosta.pontointeligente.api.enums.PerfilEnum;
 
 @Entity

@@ -1,4 +1,4 @@
-package br.com.andrecosta.pontointeligente.api;
+package br.com.andrecosta.pontointeligente.api.entities;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -18,7 +18,6 @@ import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import br.com.andrecosta.pontointeligente.api.entities.Funcionario;
 import br.com.andrecosta.pontointeligente.api.enums.TipoEnum;
 
 @Entity
